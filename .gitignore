@@ -1,0 +1,11 @@
+image/
+.slugignore
+backup_installations
+CODE.py
+code_decider.py
+code_main.txt
+processWebhook.py
+procfile.txt
+README.txt
+summ.txt
+zlibwapi.dll
