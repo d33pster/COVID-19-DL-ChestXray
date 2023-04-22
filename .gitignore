@@ -1,6 +1,6 @@
 image/
 .slugignore
-backup_installations
+backup_installations..txt
 CODE.py
 code_decider.py
 code_main.txt
