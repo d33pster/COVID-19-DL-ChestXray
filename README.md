@@ -8,3 +8,6 @@ Deep Learning Based Coronavirus (COVID-19) detection using chest Xrays
 ~ Codes include AlexNet, ZfNet, VGGNet(customized) and Lenet-5 architectures in 2D
 ~ File paths may differ from system to system.
 ~ Copyright - Soumyo Deep Gupta
+
+## Publication Link
+https://ieeexplore.ieee.org/document/10125881
